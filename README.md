@@ -3,3 +3,5 @@ Project Management with Git
 Analysing GIT history
 <br>
 Command to display last five commits
+<br>
+Use the command: git log -n 5
